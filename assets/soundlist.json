@@ -1,0 +1,190 @@
+[
+    {
+      "url": "./assets/sounds/breh.mp3",
+      "button_label": "Breh"
+    },
+    {
+      "url": "./assets/sounds/dubstep1.mp3",
+      "button_label": "Dubstep"
+    },
+    {
+      "url": "./assets/sounds/easy.mp3",
+      "button_label": "Easy!"
+    },
+    {
+      "url": "./assets/sounds/huhwhatthe.mp3",
+      "button_label": "Huh? What the..."
+    },
+    {
+      "url": "./assets/sounds/marioded.mp3",
+      "button_label": "Mario Game Over"
+    },
+    {
+      "url": "./assets/sounds/afewmomentslater1.mp3",
+      "button_label": "A few moments later"
+    },
+    {
+      "url": "./assets/sounds/doit1.mp3",
+      "button_label": "Do it!"
+    },
+    {
+      "url": "./assets/sounds/whyareyourunning.mp3",
+      "button_label": "Why you runnin?"
+    },
+    {
+      "url": "./assets/sounds/wtbleep.mp3",
+      "button_label": "What the !!!"
+    },
+    {
+      "url": "./assets/sounds/yaaaa1.mp3",
+      "button_label": "Yaaa!"
+    },
+    {
+      "url": "./assets/sounds/yay1.mp3",
+      "button_label": "Happy kids"
+    },
+    {
+      "url": "./assets/sounds/youbetterstop.mp3",
+      "button_label": "You better stop!"
+    },
+    {
+      "url": "./assets/sounds/zombie1.mp3",
+      "button_label": "Zombie"
+    },
+    {
+      "url": "./assets/sounds/saywhat.mp3",
+      "button_label": "Say what?"
+    },
+    {
+      "url": "./assets/sounds/scream1.mp3",
+      "button_label": "Scream"
+    },
+    {
+      "url": "./assets/sounds/scream2.mp3",
+      "button_label": "Scream 2"
+    },
+    {
+      "url": "./assets/sounds/scream3.mp3",
+      "button_label": "Scream 3"
+    },
+    {
+      "url": "./assets/sounds/applause1.mp3",
+      "button_label": "Applause"
+    },
+    {
+      "url": "./assets/sounds/fatality.mp3",
+      "button_label": "Fatality"
+    },
+    {
+      "url": "./assets/sounds/toasty.mp3",
+      "button_label": "Toasty"
+    },
+    {
+      "url": "./assets/sounds/hadouken.mp3",
+      "button_label": "Hadouken"
+    },
+    {
+      "url": "./assets/sounds/burp1.mp3",
+      "button_label": "Burp"
+    },
+    {
+      "url": "./assets/sounds/fart1.mp3",
+      "button_label": "Fart"
+    },
+    {
+      "url": "./assets/sounds/sorrybro.mp3",
+      "button_label": "Sorry bro"
+    },
+    {
+      "url": "./assets/sounds/shotsfired.mp3",
+      "button_label": "Shots fired!"
+    },
+    {
+      "url": "./assets/sounds/fbi.mp3",
+      "button_label": "FBI. Open up!"
+    },
+    {
+      "url": "./assets/sounds/brz1.mp3",
+      "button_label": "Explosion"
+    },
+    {
+      "url": "./assets/sounds/shing1.mp3",
+      "button_label": "Shing"
+    },
+    {
+      "url": "./assets/sounds/no1.mp3",
+      "button_label": "No!"
+    },
+    {
+      "url": "./assets/sounds/nononono.mp3",
+      "button_label": "No no no no"
+    },
+    {
+      "url": "./assets/sounds/laugh1.mp3",
+      "button_label": "Laugh 1"
+    },
+    {
+      "url": "./assets/sounds/laugh2.mp3",
+      "button_label": "Laugh 2"
+    },
+    {
+      "url": "./assets/sounds/laughaudience.mp3",
+      "button_label": "Laugh audience"
+    },
+    {
+      "url": "./assets/sounds/ohno1.mp3",
+      "button_label": "Oh no"
+    },
+    {
+      "url": "./assets/sounds/ohno2.mp3",
+      "button_label": "Oh no"
+    },
+    {
+      "url": "./assets/sounds/heywhathappened.mp3",
+      "button_label": "What happened?"
+    },
+    {
+      "url": "./assets/sounds/crickets.mp3",
+      "button_label": "Crickets"
+    },
+    {
+      "url": "./assets/sounds/ibelieve1.mp3",
+      "button_label": "I believe I can"
+    },
+    {
+      "url": "./assets/sounds/imtrying1.mp3",
+      "button_label": "Im trying"
+    },
+    {
+      "url": "./assets/sounds/explosion1.mp3",
+      "button_label": "Explosion"
+    },
+    {
+      "url": "./assets/sounds/9000.mp3",
+      "button_label": "Its over 9000!"
+    },
+    {
+      "url": "./assets/sounds/nani1.mp3",
+      "button_label": "Nani??"
+    },
+    {
+      "url": "./assets/sounds/headshot1.wav",
+      "button_label": "Head shot"
+    },
+    {
+      "url": "./assets/sounds/modem.mp3",
+      "button_label": "Modem"
+    },
+    {
+      "url": "./assets/sounds/notfunny.mp3",
+      "button_label": "Badam. Tsss."
+    },
+    {
+      "url": "./assets/sounds/error1.mp3",
+      "button_label": "Windows error"
+    },
+    {
+      "url": "./assets/sounds/ratata1.mp3",
+      "button_label": "Ratatata"
+    }
+  ]
