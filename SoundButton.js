@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from 'react-native';
+import { View, Button, StyleSheet } from 'react-native';
 import { Audio } from 'expo-av';
 
 
@@ -110,7 +110,19 @@ try {
 }
 
 const SoundButton = function(props) {
-    return( <Button onPress={() => playNativeAudio(props)} title={props.button_label} /> );
+    return( 
+        <View style={styles.someButton}>
+            <Button onPress={() => playNativeAudio(props)} title={props.button_label} /> 
+        </View>
+    );
 };
+
+const styles = StyleSheet.create({
+    someButton: { 
+        width: '30%', 
+        margin: '1%', 
+        height: '100%' 
+    }
+});
 
 export default SoundButton

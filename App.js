@@ -10,9 +10,9 @@ export default function App() {
 
   const ButtonList = function(props){
     return(
-      <View>
+      <View style={styles.bunchOfButtons}>
         {bunchOfButtons.map((data, i) => {
-            return (<SoundButton key={i} style="neu button" button_label = {data.button_label} sound = {data.url} />) 
+            return (<SoundButton key={i} button_label = {data.button_label} sound = {data.url} />) 
         })}
       </View>
     )
@@ -26,10 +26,5 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
+  bunchOfButtons : {flexDirection: 'row', height:60, alignItems: "center",  flexWrap: 'wrap'}
 });
