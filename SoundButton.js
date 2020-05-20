@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, Button, StyleSheet } from 'react-native';
+import { View, Text, TouchableWithoutFeedback, StyleSheet } from 'react-native';
 import { Audio } from 'expo-av';
 
 
@@ -112,16 +112,40 @@ try {
 const SoundButton = function(props) {
     return( 
         <View style={styles.someButton}>
-            <Button onPress={() => playNativeAudio(props)} title={props.button_label} /> 
+            <View style={styles.topShadow}>
+                <View style={styles.bottomShadow}>
+                    <TouchableWithoutFeedback onPress={() => playNativeAudio(props)} > 
+                        <Text style={{textAlign: 'center', height: 60, justifyContent: 'center', alignItems: 'center'}}>{props.button_label}</Text>
+                    </TouchableWithoutFeedback>
+                </View>
+            </View>
         </View>
     );
 };
 
 const styles = StyleSheet.create({
     someButton: { 
-        width: '30%', 
+        width: '31%', 
         margin: '1%', 
-        height: '100%' 
+        backgroundColor: 'rgb(237, 239, 245)'
+    },
+    topShadow: {
+        shadowOffset: {
+            width: -3,
+            height: -3
+        },
+        shadowOpacity: 1,
+        shadowRadius: 9,
+        shadowColor: '#fff'
+    },
+    bottomShadow: {
+        shadowOffset: {
+            width: 3,
+            height: 3
+        },
+        shadowOpacity: 1,
+        shadowRadius: 9,
+        shadowColor: 'rgba(163,177,198,0.3)'
     }
 });
 
