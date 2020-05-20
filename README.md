@@ -12,7 +12,7 @@ react-native-sound:
 
 Tutorial
 - https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1228s
-
+    got to 1:53:20 so far
 
 
 Some documentation
