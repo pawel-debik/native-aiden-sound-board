@@ -9,6 +9,8 @@ const soundObject = new Audio.Sound();
 try {
     if(props.button_label == 'Breh'){
         await soundObject.loadAsync(require('./assets/sounds/breh.mp3'));
+    } else if(props.button_label == 'Blabla'){
+        await soundObject.loadAsync(require('./assets/sounds/blabla.mp3'));
     } else if(props.button_label == 'Dubstep'){
         await soundObject.loadAsync(require('./assets/sounds/dubstep1.mp3'));
     } else if(props.button_label == 'Easy!'){
